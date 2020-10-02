@@ -3,3 +3,4 @@
 \n 3rd change to the file
 Adding a 4h line
 Adding a 5th line
+I hope this is going to be the last test
