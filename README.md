@@ -5,3 +5,4 @@ Adding a 4h line
 Adding a 5th line
 I hope this is going to be the last test
 Adding a line
+This time I set the path right. Apparently, in bash, you have to specify the path name in apostrophes
